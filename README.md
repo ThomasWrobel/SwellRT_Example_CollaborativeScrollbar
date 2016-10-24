@@ -15,7 +15,7 @@ Setup;
 
 1.Download and place both files into SwellRTs war directory.
 
-2.Edit the HTML to replace 192.168.178.1 with your own computers IP on your network.
+2.Edit the HTML to replace both times 192.168.178.1 is written with your own computers IP on your network.
 
 3.The HTML file should be accessible at  http://[yourIP]:9898/CollaborativeScrollbar.html
 
