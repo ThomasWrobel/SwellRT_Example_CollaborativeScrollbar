@@ -1,7 +1,7 @@
 # SwellRT_Example_CollaborativeScrollbar
 A very simple example of a SwellRT client
 
-This is a example javascript file that shows how to use SwellRT to have collaborative, realtime sycned, javascript objects over a network.
+This is a example javascript file that shows how to use SwellRT to have collaborative, realtime synced, javascript objects over a network.
 For full details of SwellRT see;
 
 http://swellrt.org/
@@ -19,4 +19,4 @@ Setup;
 
 3.The HTML file should be accessible at  http://[yourIP]:9898/CollaborativeScrollbar.html
 
-You should then be able to access the file from any machine on your network and see the changes reflected accross all tabs with it open. 
+You should then be able to access the file from any machine on your network and see the changes reflected across all tabs with it open. 
